@@ -1,0 +1,4 @@
+ClienteId,Nome,PedidoId,Descrição,Valor
+1,Maria,101,Notebook,3500.0
+1,Maria,102,Mouse,35.0
+2,João,103,Smartphone,13500.0

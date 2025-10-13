@@ -1,0 +1,21 @@
+idEvento;nivel;mensagem;dataHora
+1;INFO;Aplicação iniciada;2025-08-01 08:00:00
+2;WARN;Conexão lenta com o banco de dados;2025-08-01 08:05:23
+3;ERROR;Falha ao processar requisição;2025-08-01 08:06:12
+4;INFO;Usuário logado no sistema;2025-08-01 08:07:45
+5;INFO;Usuário realizou logout;2025-08-01 08:15:30
+6;ERROR;Exceção NullPointer na classe UsuarioService;2025-08-01 08:16:10
+7;WARN;Tentativa de login com senha incorreta;2025-08-01 08:20:55
+8;INFO;Arquivo exportado com sucesso;2025-08-01 08:25:12
+9;ERROR;Falha ao enviar e-mail de recuperação de senha;2025-08-01 08:27:49
+10;INFO;Backup iniciado;2025-08-01 08:30:00
+11;WARN;Espaço em disco abaixo de 20%;2025-08-01 08:35:45
+12;INFO;Backup concluído;2025-08-01 08:40:20
+13;ERROR;Timeout ao acessar API externa;2025-08-01 08:42:11
+14;INFO;Usuário alterou senha;2025-08-01 08:50:00
+15;WARN;Uso elevado de memória detectado;2025-08-01 08:55:35
+16;INFO;Sessão expirada automaticamente;2025-08-01 09:00:10
+17;ERROR;Falha ao conectar com o servidor de banco de dados;2025-08-01 09:05:50
+18;INFO;Nova conta criada;2025-08-01 09:10:22
+19;WARN;Muitas requisições vindas do mesmo IP;2025-08-01 09:15:15
+20;ERROR;Arquivo de configuração não encontrado;2025-08-01 09:20:40

@@ -1,0 +1,9 @@
+id,modeloCamera,quantRede,quantCamera,ligado,limiteRede,quantCPU
+1,cam32,54.22,10,true,true,70.0
+2,cam64,32.5,8,false,true,65.0
+3,camHD,75.0,12,true,false,80.5
+4,cam4K,90.1,16,true,true,95.75
+5,camNight,20.3,6,false,false,50.2
+6,camOutdoor,60.0,14,true,true,85.6
+7,camIndoor,45.75,9,false,true,72.3
+8,camMini,15.9,4,true,false,40.0

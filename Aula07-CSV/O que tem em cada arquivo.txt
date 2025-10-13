@@ -1,0 +1,5 @@
+exemploCSV1:
+Mostra como ler e como fazer a saída de um arquivo .csv (fazer um arquivo de saída).
+
+CriarAquioCSV:
+Aqui é mostrado como fazer (manualmente) os dados de saída de um arquivo .csv, as colunas (Nome, Idade, CEP, etc) e como fazer o caminho de onde ele será criado.
